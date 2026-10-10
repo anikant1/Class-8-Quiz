@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "source": "Footprints-Science",
+    "section": "Knowing the 3 states of matter and that they are made from particles",
+    "question": "Solid, liquid and gas are three _____________________",
+    "options": {
+      "a": "solid",
+      "b": "arranged in a regular pattern",
+      "c": "states of matter",
+      "d": "solid, liquid and gas"
+    },
+    "correctKey": "c",
+    "correctAnswer": "states of matter"
+  },
+  {
+    "id": 2,
+    "source": "Footprints-Science",
+    "section": "Knowing the 3 states of matter and that they are made from particles",
+    "question": "Three states of matter are _______________________",
+    "options": {
+      "a": "move around each other",
+      "b": "particles move randomly",
+      "c": "solid, liquid and gas",
+      "d": "made of particles"
+    },
+    "correctKey": "c",
+    "correctAnswer": "solid, liquid and gas"
+  },
+  {
+    "id": 3,
+    "source": "Footprints-Science",
+    "section": "Knowing the 3 states of matter and that they are made from particles",
+    "question": "Solids, liquids and gases are ______________ (that are too small to see)",
+    "options": {
+      "a": "particles are close together",
+      "b": "made of particles",
+      "c": "states of matter",
+      "d": "gas"
+    },
+    "correctKey": "b",
+    "correctAnswer": "made of particles"
+  },
+  {
+    "id": 4,
+    "source": "Footprints-Science",
+    "section": "Proximity of particles in solids, liquids and gases.",
+    "question": "In a _______ (and a liquid) the particles are close together",
+    "options": {
+      "a": "solid",
+      "b": "move around each other",
+      "c": "liquid",
+      "d": "particles are not arranged in a pattern"
+    },
+    "correctKey": "a",
+    "correctAnswer": "solid"
+  },
+  {
+    "id": 5,
+    "source": "Footprints-Science",
+    "section": "Proximity of particles in solids, liquids and gases.",
+    "question": "In a solid the ________________________",
+    "options": {
+      "a": "gas",
+      "b": "vibrate about a fixed position",
+      "c": "particles are close together",
+      "d": "liquid"
+    },
+    "correctKey": "c",
+    "correctAnswer": "particles are close together"
+  },
+  {
+    "id": 6,
+    "source": "Footprints-Science",
+    "section": "Proximity of particles in solids, liquids and gases.",
+    "question": "In a _______ (and a solid) the particles are close together",
+    "options": {
+      "a": "solid",
+      "b": "particles are close together",
+      "c": "states of matter",
+      "d": "liquid"
+    },
+    "correctKey": "d",
+    "correctAnswer": "liquid"
+  },
+  {
+    "id": 7,
+    "source": "Footprints-Science",
+    "section": "Proximity of particles in solids, liquids and gases.",
+    "question": "In a liquid the ________________________",
+    "options": {
+      "a": "vibrate about a fixed position",
+      "b": "particles are close together",
+      "c": "liquid",
+      "d": "solid, liquid and gas"
+    },
+    "correctKey": "b",
+    "correctAnswer": "particles are close together"
+  },
+  {
+    "id": 8,
+    "source": "Footprints-Science",
+    "section": "Proximity of particles in solids, liquids and gases.",
+    "question": "In a ___ the particles are far apart",
+    "options": {
+      "a": "vibrate about a fixed position",
+      "b": "particles are far apart",
+      "c": "gas",
+      "d": "liquid"
+    },
+    "correctKey": "c",
+    "correctAnswer": "gas"
+  },
+  {
+    "id": 9,
+    "source": "Footprints-Science",
+    "section": "Proximity of particles in solids, liquids and gases.",
+    "question": "In a gas the ________________",
+    "options": {
+      "a": "liquid",
+      "b": "particles are far apart",
+      "c": "particles move randomly",
+      "d": "gas"
+    },
+    "correctKey": "b",
+    "correctAnswer": "particles are far apart"
+  },
+  {
+    "id": 10,
+    "source": "Footprints-Science",
+    "section": "Movement of particles in solids, liquids and gases.",
+    "question": "In a ______ the particles vibrate about a fixed position",
+    "options": {
+      "a": "liquid",
+      "b": "particles are close together",
+      "c": "move around each other",
+      "d": "solid"
+    },
+    "correctKey": "d",
+    "correctAnswer": "solid"
+  },
+  {
+    "id": 11,
+    "source": "Footprints-Science",
+    "section": "Movement of particles in solids, liquids and gases.",
+    "question": "In a solid the particles _________________________",
+    "options": {
+      "a": "liquid",
+      "b": "vibrate about a fixed position",
+      "c": "gas",
+      "d": "particles move randomly"
+    },
+    "correctKey": "b",
+    "correctAnswer": "vibrate about a fixed position"
+  },
+  {
+    "id": 12,
+    "source": "Footprints-Science",
+    "section": "Movement of particles in solids, liquids and gases.",
+    "question": "In a __________ the particles move around each other",
+    "options": {
+      "a": "arranged in a regular pattern",
+      "b": "solid",
+      "c": "states of matter",
+      "d": "liquid"
+    },
+    "correctKey": "d",
+    "correctAnswer": "liquid"
+  },
+  {
+    "id": 13,
+    "source": "Footprints-Science",
+    "section": "Movement of particles in solids, liquids and gases.",
+    "question": "In a liquid the particles __________________________",
+    "options": {
+      "a": "move around each other",
+      "b": "solid",
+      "c": "liquid",
+      "d": "particles are close together"
+    },
+    "correctKey": "a",
+    "correctAnswer": "move around each other"
+  },
+  {
+    "id": 14,
+    "source": "Footprints-Science",
+    "section": "Movement of particles in solids, liquids and gases.",
+    "question": "In a ______ the particles move quickly in all directions",
+    "options": {
+      "a": "solid",
+      "b": "gas",
+      "c": "liquid",
+      "d": "particles are close together"
+    },
+    "correctKey": "b",
+    "correctAnswer": "gas"
+  },
+  {
+    "id": 15,
+    "source": "Footprints-Science",
+    "section": "Movement of particles in solids, liquids and gases.",
+    "question": "In a gas the particles _______________",
+    "options": {
+      "a": "solid, liquid and gas",
+      "b": "liquid",
+      "c": "vibrate about a fixed position",
+      "d": "move quickly in all directions"
+    },
+    "correctKey": "d",
+    "correctAnswer": "move quickly in all directions"
+  },
+  {
+    "id": 16,
+    "source": "Footprints-Science",
+    "section": "Pattern of particles in solids, liquids and gases.",
+    "question": "In a __________ the particles are arranged in a regular pattern",
+    "options": {
+      "a": "vibrate about a fixed position",
+      "b": "solid, liquid and gas",
+      "c": "particles are close together",
+      "d": "solid"
+    },
+    "correctKey": "d",
+    "correctAnswer": "solid"
+  },
+  {
+    "id": 17,
+    "source": "Footprints-Science",
+    "section": "Pattern of particles in solids, liquids and gases.",
+    "question": "In a solid the particles are ________________________ (there is order)",
+    "options": {
+      "a": "arranged in a regular pattern",
+      "b": "particles are not arranged in a pattern",
+      "c": "liquid",
+      "d": "solid"
+    },
+    "correctKey": "a",
+    "correctAnswer": "arranged in a regular pattern"
+  },
+  {
+    "id": 18,
+    "source": "Footprints-Science",
+    "section": "Pattern of particles in solids, liquids and gases.",
+    "question": "In a ___________  (and a gas) the particles are not arranged in a pattern",
+    "options": {
+      "a": "move quickly in all directions",
+      "b": "liquid",
+      "c": "particles move randomly",
+      "d": "arranged in a regular pattern"
+    },
+    "correctKey": "b",
+    "correctAnswer": "liquid"
+  },
+  {
+    "id": 19,
+    "source": "Footprints-Science",
+    "section": "Pattern of particles in solids, liquids and gases.",
+    "question": "In a liquid (and a gas) the ________________________ (there is no order)",
+    "options": {
+      "a": "particles are not arranged in a pattern",
+      "b": "solid",
+      "c": "states of matter",
+      "d": "liquid"
+    },
+    "correctKey": "a",
+    "correctAnswer": "particles are not arranged in a pattern"
+  },
+  {
+    "id": 20,
+    "source": "Footprints-Science",
+    "section": "Pattern of particles in solids, liquids and gases.",
+    "question": "In a _____ (and a liquid) the particles are not arranged in a pattern",
+    "options": {
+      "a": "states of matter",
+      "b": "made of particles",
+      "c": "gas",
+      "d": "solid"
+    },
+    "correctKey": "c",
+    "correctAnswer": "gas"
+  },
+  {
+    "id": 21,
+    "source": "Footprints-Science",
+    "section": "Pattern of particles in solids, liquids and gases.",
+    "question": "In a gas the _______________________ in all directions",
+    "options": {
+      "a": "gas",
+      "b": "arranged in a regular pattern",
+      "c": "particles move randomly",
+      "d": "liquid"
+    },
+    "correctKey": "c",
+    "correctAnswer": "particles move randomly"
+  },
+  {
+    "id": 22,
+    "source": "Supplementary Curriculum",
+    "section": "Changes of State",
+    "question": "What is the process called when a solid turns directly into a gas without becoming a liquid first?",
+    "options": {
+      "a": "Evaporation",
+      "b": "Condensation",
+      "c": "Sublimation",
+      "d": "Melting"
+    },
+    "correctKey": "c",
+    "correctAnswer": "Sublimation"
+  },
+  {
+    "id": 23,
+    "source": "Supplementary Curriculum",
+    "section": "Compressibility & Forces",
+    "question": "Which state of matter can be compressed most easily and why?",
+    "options": {
+      "a": "Solid, because particles are held in fixed positions",
+      "b": "Liquid, because particles can flow past one another",
+      "c": "Gas, because there are large empty spaces between particles",
+      "d": "All states compress equally under high pressure"
+    },
+    "correctKey": "c",
+    "correctAnswer": "Gas, because there are large empty spaces between particles"
+  },
+  {
+    "id": 24,
+    "source": "Supplementary Curriculum",
+    "section": "Shape and Volume",
+    "question": "A substance has a fixed volume but takes the shape of whatever container it is poured into. Which state of matter is it?",
+    "options": {
+      "a": "Solid",
+      "b": "Liquid",
+      "c": "Gas",
+      "d": "Plasma"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Liquid"
+  },
+  {
+    "id": 25,
+    "source": "Supplementary Curriculum",
+    "section": "Thermal Energy & Particle Theory",
+    "question": "When a substance is heated, what happens to the kinetic energy and movement of its particles?",
+    "options": {
+      "a": "Kinetic energy increases and particles move or vibrate faster",
+      "b": "Kinetic energy decreases and particles move slower",
+      "c": "Kinetic energy remains constant while particles shrink in size",
+      "d": "Particles stop moving and lock together"
+    },
+    "correctKey": "a",
+    "correctAnswer": "Kinetic energy increases and particles move or vibrate faster"
+  },
+  {
+    "id": 26,
+    "source": "Supplementary Curriculum",
+    "section": "Changes of State",
+    "question": "What process occurs when gas particles cool down and form a liquid?",
+    "options": {
+      "a": "Boiling",
+      "b": "Condensation",
+      "c": "Freezing",
+      "d": "Sublimation"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Condensation"
+  },
+  {
+    "id": 27,
+    "source": "Supplementary Curriculum",
+    "section": "Particle Phenomena (Diffusion)",
+    "question": "The spreading out of particles from an area of higher concentration to an area of lower concentration is known as:",
+    "options": {
+      "a": "Expansion",
+      "b": "Density",
+      "c": "Diffusion",
+      "d": "Contraction"
+    },
+    "correctKey": "c",
+    "correctAnswer": "Diffusion"
+  },
+  {
+    "id": 28,
+    "source": "Supplementary Curriculum",
+    "section": "Density & States of Matter",
+    "question": "Why are solids typically much denser than gases of the same substance?",
+    "options": {
+      "a": "The individual atoms in a solid are heavier",
+      "b": "Solid particles are packed tightly together, meaning more mass in a given volume",
+      "c": "Gas particles lose mass when they evaporate",
+      "d": "Solids contain more gravity than gases"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Solid particles are packed tightly together, meaning more mass in a given volume"
+  },
+  {
+    "id": 29,
+    "source": "Supplementary Curriculum",
+    "section": "Forces Between Particles",
+    "question": "Which state of matter has the strongest attractive forces between its particles?",
+    "options": {
+      "a": "Gas",
+      "b": "Liquid",
+      "c": "Solid",
+      "d": "Vapor"
+    },
+    "correctKey": "c",
+    "correctAnswer": "Solid"
+  },
+  {
+    "id": 30,
+    "source": "Supplementary Curriculum",
+    "section": "Changes of State",
+    "question": "What is the transition called when a gas turns directly into a solid?",
+    "options": {
+      "a": "Deposition (or Desublimation)",
+      "b": "Evaporation",
+      "c": "Melting",
+      "d": "Condensation"
+    },
+    "correctKey": "a",
+    "correctAnswer": "Deposition (or Desublimation)"
+  },
+  {
+    "id": 31,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Kinetic Molecular Theory",
+    "question": "According to the kinetic theory of matter, what are all substances composed of?",
+    "options": {
+      "a": "Continuous motionless sheets",
+      "b": "Tiny particles (atoms or molecules) in continuous motion",
+      "c": "Pure light waves",
+      "d": "Electric charges with no mass"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Tiny particles (atoms or molecules) in continuous motion"
+  },
+  {
+    "id": 32,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Inter-particle Forces",
+    "question": "What is the force of attraction between particles of the SAME substance called?",
+    "options": {
+      "a": "Adhesive force",
+      "b": "Gravitational force",
+      "c": "Cohesive force",
+      "d": "Magnetic force"
+    },
+    "correctKey": "c",
+    "correctAnswer": "Cohesive force"
+  },
+  {
+    "id": 33,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Inter-particle Forces",
+    "question": "What is the force of attraction between particles of DIFFERENT substances called?",
+    "options": {
+      "a": "Cohesive force",
+      "b": "Adhesive force",
+      "c": "Frictional force",
+      "d": "Nuclear force"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Adhesive force"
+  },
+  {
+    "id": 34,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Matter Characteristics",
+    "question": "Which of the following is NOT classified as matter?",
+    "options": {
+      "a": "Air",
+      "b": "Water vapor",
+      "c": "Sunlight",
+      "d": "Ice"
+    },
+    "correctKey": "c",
+    "correctAnswer": "Sunlight"
+  },
+  {
+    "id": 35,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Inter-particle Space",
+    "question": "The empty space between adjacent particles of matter is called:",
+    "options": {
+      "a": "Inter-particle space",
+      "b": "Vacuum hole",
+      "c": "Density gap",
+      "d": "Atomic void"
+    },
+    "correctKey": "a",
+    "correctAnswer": "Inter-particle space"
+  },
+  {
+    "id": 36,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Inter-particle Space Order",
+    "question": "What is the correct increasing order of inter-particle space among the three states?",
+    "options": {
+      "a": "Gas < Liquid < Solid",
+      "b": "Solid < Liquid < Gas",
+      "c": "Liquid < Solid < Gas",
+      "d": "Solid < Gas < Liquid"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Solid < Liquid < Gas"
+  },
+  {
+    "id": 37,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Inter-particle Force Order",
+    "question": "What is the correct decreasing order of inter-particle force of attraction?",
+    "options": {
+      "a": "Solid > Liquid > Gas",
+      "b": "Gas > Liquid > Solid",
+      "c": "Liquid > Solid > Gas",
+      "d": "Solid > Gas > Liquid"
+    },
+    "correctKey": "a",
+    "correctAnswer": "Solid > Liquid > Gas"
+  },
+  {
+    "id": 38,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Rigidity and Fluidity",
+    "question": "Why do solids possess rigidity while liquids and gases are fluids?",
+    "options": {
+      "a": "Solids have zero mass",
+      "b": "Solids have particles fixed in position by strong cohesive forces",
+      "c": "Liquids and gases have no particles",
+      "d": "Solids have greater inter-particle spaces"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Solids have particles fixed in position by strong cohesive forces"
+  },
+  {
+    "id": 39,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Solids Reasoning",
+    "question": "A sponge can be compressed easily. Why is it still classified as a solid?",
+    "options": {
+      "a": "It behaves like a liquid when pressed",
+      "b": "It has minute pores filled with air which is expelled when compressed",
+      "c": "It is made of gas particles",
+      "d": "Its individual solid fibers have no definite volume"
+    },
+    "correctKey": "b",
+    "correctAnswer": "It has minute pores filled with air which is expelled when compressed"
+  },
+  {
+    "id": 40,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Brownian Motion",
+    "question": "The continuous zigzag, random motion of microscopic particles suspended in a fluid is known as:",
+    "options": {
+      "a": "Periodic motion",
+      "b": "Rotational motion",
+      "c": "Brownian motion",
+      "d": "Linear motion"
+    },
+    "correctKey": "c",
+    "correctAnswer": "Brownian motion"
+  },
+  {
+    "id": 41,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Diffusion in Everyday Life",
+    "question": "The smell of hot sizzling food reaches us several meters away, but to smell cold food we have to get close. Why?",
+    "options": {
+      "a": "Hot food particles have higher kinetic energy and diffuse much faster",
+      "b": "Cold food particles are heavier and cannot move",
+      "c": "Heat destroys the molecules of the food",
+      "d": "Cold air prevents all particle movement"
+    },
+    "correctKey": "a",
+    "correctAnswer": "Hot food particles have higher kinetic energy and diffuse much faster"
+  },
+  {
+    "id": 42,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Dissolution in Liquids",
+    "question": "When potassium permanganate crystal is dropped in water, the entire beaker turns purple without stirring. This demonstrates:",
+    "options": {
+      "a": "A chemical explosion",
+      "b": "Diffusion of particles in liquids",
+      "c": "Evaporation of water",
+      "d": "Sublimation"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Diffusion of particles in liquids"
+  },
+  {
+    "id": 43,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Conservation of Volume",
+    "question": "When 50 g of sugar is dissolved in 100 mL of water, the volume of water does not increase noticeably. Why?",
+    "options": {
+      "a": "Sugar particles disappear into nothing",
+      "b": "Sugar particles fit into the empty spaces between water molecules",
+      "c": "Water evaporates instantly",
+      "d": "Sugar turns into water"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Sugar particles fit into the empty spaces between water molecules"
+  },
+  {
+    "id": 44,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Diffusion Rates",
+    "question": "In which medium does diffusion take place at the fastest rate?",
+    "options": {
+      "a": "Solid in solid",
+      "b": "Liquid in liquid",
+      "c": "Gas in gas",
+      "d": "Solid in liquid"
+    },
+    "correctKey": "c",
+    "correctAnswer": "Gas in gas"
+  },
+  {
+    "id": 45,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Gas Pressure",
+    "question": "Gases exert pressure uniformly on the walls of their container because:",
+    "options": {
+      "a": "Gas particles are at rest",
+      "b": "Gas particles constantly collide with the container walls with high velocity",
+      "c": "Gases are magnetic",
+      "d": "Gases attract the walls inward"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Gas particles constantly collide with the container walls with high velocity"
+  },
+  {
+    "id": 46,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Effect of Temperature on Diffusion",
+    "question": "How does an increase in temperature affect the rate of diffusion?",
+    "options": {
+      "a": "Rate of diffusion decreases",
+      "b": "Rate of diffusion remains unchanged",
+      "c": "Rate of diffusion increases",
+      "d": "Diffusion completely stops"
+    },
+    "correctKey": "c",
+    "correctAnswer": "Rate of diffusion increases"
+  },
+  {
+    "id": 47,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Free Surface of Matter",
+    "question": "How many free surfaces does a solid have?",
+    "options": {
+      "a": "Only one free surface",
+      "b": "No free surfaces",
+      "c": "Any number of free surfaces",
+      "d": "Two free surfaces"
+    },
+    "correctKey": "c",
+    "correctAnswer": "Any number of free surfaces"
+  },
+  {
+    "id": 48,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Free Surface of Liquids",
+    "question": "How many free surfaces does a liquid resting in an open container have?",
+    "options": {
+      "a": "None",
+      "b": "One (the top surface)",
+      "c": "Two",
+      "d": "Infinite"
+    },
+    "correctKey": "b",
+    "correctAnswer": "One (the top surface)"
+  },
+  {
+    "id": 49,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Free Surface of Gases",
+    "question": "How many free surfaces does a gas possess?",
+    "options": {
+      "a": "One",
+      "b": "Two",
+      "c": "None",
+      "d": "Four"
+    },
+    "correctKey": "c",
+    "correctAnswer": "None"
+  },
+  {
+    "id": 50,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Definite Shape & Volume Summary",
+    "question": "Which state of matter has neither a definite shape nor a definite volume?",
+    "options": {
+      "a": "Solid",
+      "b": "Liquid",
+      "c": "Gas",
+      "d": "Both solid and liquid"
+    },
+    "correctKey": "c",
+    "correctAnswer": "Gas"
+  },
+  {
+    "id": 51,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Melting Point",
+    "question": "The constant temperature at which a solid converts into a liquid at standard atmospheric pressure is called its:",
+    "options": {
+      "a": "Boiling point",
+      "b": "Melting point",
+      "c": "Freezing point",
+      "d": "Condensation point"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Melting point"
+  },
+  {
+    "id": 52,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Melting of Ice",
+    "question": "What is the melting point of pure ice at 1 atmospheric pressure?",
+    "options": {
+      "a": "100 °C (373 K)",
+      "b": "0 °C (273 K)",
+      "c": "-10 °C (263 K)",
+      "d": "4 °C (277 K)"
+    },
+    "correctKey": "b",
+    "correctAnswer": "0 °C (273 K)"
+  },
+  {
+    "id": 53,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Boiling Point",
+    "question": "The constant temperature at which a liquid rapidly changes into vapor throughout its volume is called its:",
+    "options": {
+      "a": "Melting point",
+      "b": "Sublimation point",
+      "c": "Boiling point",
+      "d": "Critical point"
+    },
+    "correctKey": "c",
+    "correctAnswer": "Boiling point"
+  },
+  {
+    "id": 54,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Boiling Point of Water",
+    "question": "What is the normal boiling point of pure water?",
+    "options": {
+      "a": "0 °C (273 K)",
+      "b": "50 °C (323 K)",
+      "c": "100 °C (373 K)",
+      "d": "212 °C"
+    },
+    "correctKey": "c",
+    "correctAnswer": "100 °C (373 K)"
+  },
+  {
+    "id": 55,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Freezing Process",
+    "question": "The conversion of a liquid into a solid by cooling is called:",
+    "options": {
+      "a": "Melting",
+      "b": "Solidification (or Freezing)",
+      "c": "Vaporization",
+      "d": "Sublimation"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Solidification (or Freezing)"
+  },
+  {
+    "id": 56,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Boiling vs Evaporation",
+    "question": "Which of the following statements correctly distinguishes evaporation from boiling?",
+    "options": {
+      "a": "Evaporation is a bulk phenomenon; boiling is a surface phenomenon",
+      "b": "Evaporation occurs only at a fixed temperature; boiling occurs at all temperatures",
+      "c": "Evaporation is a surface phenomenon occurring at any temperature below boiling point",
+      "d": "Boiling does not require any heat energy"
+    },
+    "correctKey": "c",
+    "correctAnswer": "Evaporation is a surface phenomenon occurring at any temperature below boiling point"
+  },
+  {
+    "id": 57,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Factors Affecting Evaporation",
+    "question": "Which factor does NOT increase the rate of evaporation of a liquid?",
+    "options": {
+      "a": "Increase in surface area",
+      "b": "Increase in temperature",
+      "c": "Increase in wind speed",
+      "d": "Increase in humidity"
+    },
+    "correctKey": "d",
+    "correctAnswer": "Increase in humidity"
+  },
+  {
+    "id": 58,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Cooling by Evaporation",
+    "question": "Why do people sweat more and feel cool when the sweat evaporates from their skin?",
+    "options": {
+      "a": "Sweat adds heat to the body",
+      "b": "Evaporating sweat absorbs latent heat from the body, producing cooling",
+      "c": "Sweat chemical reactions produce ice",
+      "d": "Sweat blocks blood circulation"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Evaporating sweat absorbs latent heat from the body, producing cooling"
+  },
+  {
+    "id": 59,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Earthen Pot Cooling",
+    "question": "Water kept in an earthen pot (matka) becomes cool during summer due to:",
+    "options": {
+      "a": "Condensation",
+      "b": "Evaporation through minute pores",
+      "c": "Sublimation",
+      "d": "Precipitation"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Evaporation through minute pores"
+  },
+  {
+    "id": 60,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Sublimable Substances",
+    "question": "Which of the following substances undergoes sublimation on heating?",
+    "options": {
+      "a": "Common salt (Sodium chloride)",
+      "b": "Sugar",
+      "c": "Camphor",
+      "d": "Iron filings"
+    },
+    "correctKey": "c",
+    "correctAnswer": "Camphor"
+  },
+  {
+    "id": 61,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Sublimable Examples",
+    "question": "Naphthalene balls kept in woollen clothes disappear over time without leaving any residue because:",
+    "options": {
+      "a": "Insects eat them",
+      "b": "They melt into transparent liquid",
+      "c": "They undergo sublimation directly into gas",
+      "d": "They dissolve in cloth fibers"
+    },
+    "correctKey": "c",
+    "correctAnswer": "They undergo sublimation directly into gas"
+  },
+  {
+    "id": 62,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Sublimable Examples",
+    "question": "Which of the following is commonly known as 'Dry Ice'?",
+    "options": {
+      "a": "Solid water at -50 °C",
+      "b": "Solid Carbon Dioxide",
+      "c": "Liquid Nitrogen",
+      "d": "Solid Methane"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Solid Carbon Dioxide"
+  },
+  {
+    "id": 63,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Dry Ice Behavior",
+    "question": "Why is solid carbon dioxide called 'Dry Ice'?",
+    "options": {
+      "a": "It never feels cold",
+      "b": "It sublimes directly into gas without wetting surfaces with liquid",
+      "c": "It is made of dried powdered ice",
+      "d": "It absorbs all moisture from the atmosphere"
+    },
+    "correctKey": "b",
+    "correctAnswer": "It sublimes directly into gas without wetting surfaces with liquid"
+  },
+  {
+    "id": 64,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Latent Heat Concept",
+    "question": "During the melting of ice, heat is continuously supplied but the thermometer reading remains 0 °C until all ice melts. Where does this heat go?",
+    "options": {
+      "a": "It escapes into the atmosphere",
+      "b": "It is used as latent heat to overcome attractive forces between particles",
+      "c": "It is destroyed inside the ice",
+      "d": "It turns into sound energy"
+    },
+    "correctKey": "b",
+    "correctAnswer": "It is used as latent heat to overcome attractive forces between particles"
+  },
+  {
+    "id": 65,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Latent Heat of Fusion",
+    "question": "The amount of heat required to change 1 kg of a solid into liquid at its melting point without change in temperature is called:",
+    "options": {
+      "a": "Specific heat capacity",
+      "b": "Latent heat of fusion",
+      "c": "Latent heat of vaporization",
+      "d": "Thermal expansion coefficient"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Latent heat of fusion"
+  },
+  {
+    "id": 66,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Latent Heat of Vaporization",
+    "question": "The heat absorbed by a unit mass of a liquid to change into gas at its boiling point without temperature change is called:",
+    "options": {
+      "a": "Latent heat of fusion",
+      "b": "Latent heat of vaporization",
+      "c": "Sublimation energy",
+      "d": "Calorific value"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Latent heat of vaporization"
+  },
+  {
+    "id": 67,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Steam vs Boiling Water Burns",
+    "question": "Why do burns caused by steam at 100 °C feel much more severe than burns caused by boiling water at 100 °C?",
+    "options": {
+      "a": "Steam is lighter than water",
+      "b": "Steam contains additional latent heat of vaporization released upon condensing",
+      "c": "Steam has higher chemical toxicity",
+      "d": "Steam contains radioactive particles"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Steam contains additional latent heat of vaporization released upon condensing"
+  },
+  {
+    "id": 68,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Condensation Experiment",
+    "question": "Water droplets appear on the outer surface of a glass containing ice-cold water because:",
+    "options": {
+      "a": "Water seeps through the glass pores",
+      "b": "Water vapor in the surrounding air condenses upon touching the cold glass",
+      "c": "The cold air produces water chemically",
+      "d": "Ice melts and leaks upward"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Water vapor in the surrounding air condenses upon touching the cold glass"
+  },
+  {
+    "id": 69,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Sublimable Substances (Ammonium Chloride)",
+    "question": "When a mixture of salt and ammonium chloride is heated in a china dish covered with an inverted funnel:",
+    "options": {
+      "a": "Salt sublimes onto the funnel neck",
+      "b": "Ammonium chloride sublimes and deposits on the cooler inner walls of the funnel",
+      "c": "Both substances melt into one liquid",
+      "d": "Nothing happens"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Ammonium chloride sublimes and deposits on the cooler inner walls of the funnel"
+  },
+  {
+    "id": 70,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Desublimation / Deposition",
+    "question": "Frost forming on window panes during extremely cold winter nights is an example of:",
+    "options": {
+      "a": "Evaporation",
+      "b": "Freezing of liquid rain",
+      "c": "Deposition (gas directly changing to solid)",
+      "d": "Melting"
+    },
+    "correctKey": "c",
+    "correctAnswer": "Deposition (gas directly changing to solid)"
+  },
+  {
+    "id": 71,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Thermal Expansion Comparison",
+    "question": "When equal volumes of solid, liquid, and gas are heated through the same temperature rise, which expands the most?",
+    "options": {
+      "a": "Solid",
+      "b": "Liquid",
+      "c": "Gas",
+      "d": "All expand equally"
+    },
+    "correctKey": "c",
+    "correctAnswer": "Gas"
+  },
+  {
+    "id": 72,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Thermal Expansion in Solids",
+    "question": "Why are small gaps left between successive railway tracks?",
+    "options": {
+      "a": "To save steel material",
+      "b": "To allow linear expansion of rails during hot summer months without buckling",
+      "c": "To allow air to pass through",
+      "d": "To make trains run slower"
+    },
+    "correctKey": "b",
+    "correctAnswer": "To allow linear expansion of rails during hot summer months without buckling"
+  },
+  {
+    "id": 73,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Density of Ice vs Water",
+    "question": "Why does ice float on water?",
+    "options": {
+      "a": "Ice is heavier than water",
+      "b": "Ice has an open cage-like structure giving it a lower density than liquid water",
+      "c": "Ice contains air bubbles that pull it up",
+      "d": "Ice has higher cohesive forces with air"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Ice has an open cage-like structure giving it a lower density than liquid water"
+  },
+  {
+    "id": 74,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Anomalous Expansion of Water",
+    "question": "At what temperature does water have its maximum density?",
+    "options": {
+      "a": "0 °C",
+      "b": "100 °C",
+      "c": "4 °C",
+      "d": "-4 °C"
+    },
+    "correctKey": "c",
+    "correctAnswer": "4 °C"
+  },
+  {
+    "id": 75,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Effect of Pressure on Boiling Point",
+    "question": "Why does food cook faster in a pressure cooker?",
+    "options": {
+      "a": "Pressure cooker absorbs more flames",
+      "b": "High pressure inside raises the boiling point of water above 100 °C",
+      "c": "High pressure lowers the boiling point of water below 50 °C",
+      "d": "Steam is not allowed to touch the food"
+    },
+    "correctKey": "b",
+    "correctAnswer": "High pressure inside raises the boiling point of water above 100 °C"
+  },
+  {
+    "id": 76,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Atmospheric Pressure at High Altitudes",
+    "question": "Why is it difficult to cook pulses and food on top of high mountains in open pots?",
+    "options": {
+      "a": "Atmospheric pressure is higher, so water freezes",
+      "b": "Lower atmospheric pressure causes water to boil at a temperature below 100 °C",
+      "c": "There is no oxygen for flames to burn",
+      "d": "Pots lose heat to the clouds"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Lower atmospheric pressure causes water to boil at a temperature below 100 °C"
+  },
+  {
+    "id": 77,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Liquefaction of Gases",
+    "question": "Which combination of conditions is ideal for liquefying a gas?",
+    "options": {
+      "a": "High temperature and low pressure",
+      "b": "Low temperature and high pressure",
+      "c": "High temperature and high pressure",
+      "d": "Low temperature and low pressure"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Low temperature and high pressure"
+  },
+  {
+    "id": 78,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "LPG & CNG in Cylinders",
+    "question": "LPG (Liquefied Petroleum Gas) and CNG are stored in domestic cylinders as compressed liquids because:",
+    "options": {
+      "a": "Liquids burn better than gases",
+      "b": "Gases have large compressibility, allowing huge volumes to be packed into compact cylinders",
+      "c": "Cylinders cannot hold gas pressure",
+      "d": "Gases turn into solids under light pressure"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Gases have large compressibility, allowing huge volumes to be packed into compact cylinders"
+  },
+  {
+    "id": 79,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Syringe Compressibility Experiment",
+    "question": "When pistons of 3 identical syringes containing chalk (solid), water (liquid), and air (gas) are pushed:",
+    "options": {
+      "a": "Chalk syringe piston moves the easiest",
+      "b": "Water syringe piston compresses to half length",
+      "c": "Air syringe piston compresses easily; chalk and water pistons barely move",
+      "d": "None of the pistons can be pushed at all"
+    },
+    "correctKey": "c",
+    "correctAnswer": "Air syringe piston compresses easily; chalk and water pistons barely move"
+  },
+  {
+    "id": 80,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Solubility of Gases in Water",
+    "question": "How does an increase in water temperature affect the solubility of dissolved oxygen gas?",
+    "options": {
+      "a": "Solubility increases",
+      "b": "Solubility decreases (gas escapes)",
+      "c": "Solubility remains exactly the same",
+      "d": "Oxygen converts into hydrogen"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Solubility decreases (gas escapes)"
+  },
+  {
+    "id": 81,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Evaporation Applications",
+    "question": "Why do people wear light-coloured cotton clothes during hot summer days?",
+    "options": {
+      "a": "Cotton attracts mosquitoes",
+      "b": "Cotton absorbs sweat and exposes it to air, causing cooling by evaporation",
+      "c": "Cotton generates heat to keep pores open",
+      "d": "Cotton prevents air from reaching the skin"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Cotton absorbs sweat and exposes it to air, causing cooling by evaporation"
+  },
+  {
+    "id": 82,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Evaporation Applications",
+    "question": "Why does tea or milk cool down faster when poured into a saucer instead of a narrow cup?",
+    "options": {
+      "a": "Saucer material is colder",
+      "b": "The larger surface area of the saucer increases the rate of evaporation",
+      "c": "Liquid loses mass in a saucer",
+      "d": "Tea reacts chemically with saucer porcelain"
+    },
+    "correctKey": "b",
+    "correctAnswer": "The larger surface area of the saucer increases the rate of evaporation"
+  },
+  {
+    "id": 83,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Acetone / Perfume Cooling",
+    "question": "When nail polish remover (acetone) or perfume is poured on your palm, your palm feels ice-cold. Why?",
+    "options": {
+      "a": "Acetone is stored in refrigerators",
+      "b": "Acetone particles evaporate quickly by absorbing latent heat of vaporization from your palm",
+      "c": "Acetone freezes on human skin",
+      "d": "Acetone causes blood to stop flowing"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Acetone particles evaporate quickly by absorbing latent heat of vaporization from your palm"
+  },
+  {
+    "id": 84,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Incense Stick Diffusion",
+    "question": "An unlit incense stick has to be brought close to our nose to smell it, but when lighted its fragrance spreads across the whole room. Why?",
+    "options": {
+      "a": "Lighting it creates new chemical elements",
+      "b": "Higher temperature vaporizes the incense, and higher kinetic energy accelerates diffusion",
+      "c": "Smoke destroys air molecules",
+      "d": "The stick only contains perfume when burnt"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Higher temperature vaporizes the incense, and higher kinetic energy accelerates diffusion"
+  },
+  {
+    "id": 85,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Aquatic Life Survival",
+    "question": "How do fish and aquatic plants survive under the frozen top layer of lakes in winter?",
+    "options": {
+      "a": "Fish breathe ice crystals",
+      "b": "Water beneath ice stays at 4 °C (liquid) due to anomalous expansion of water",
+      "c": "Fish hibernate in solid ice",
+      "d": "Lakes freeze from bottom to top"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Water beneath ice stays at 4 °C (liquid) due to anomalous expansion of water"
+  },
+  {
+    "id": 86,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Boyle's Law Intuition",
+    "question": "When an inflated balloon is gently squeezed into a smaller volume at constant temperature, the air pressure inside:",
+    "options": {
+      "a": "Decreases",
+      "b": "Increases because particles collide more frequently with the inner walls",
+      "c": "Remains constant",
+      "d": "Drops to zero"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Increases because particles collide more frequently with the inner walls"
+  },
+  {
+    "id": 87,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Charles's Law Intuition",
+    "question": "Why does an inflated bicycle tube or soccer ball burst when left outside in scorching summer sun?",
+    "options": {
+      "a": "Rubber turns into liquid",
+      "b": "Air particles gain kinetic energy, moving faster and exerting excessive pressure on the walls",
+      "c": "Sunlight adds air atoms to the ball",
+      "d": "Atmospheric pressure crushes the ball"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Air particles gain kinetic energy, moving faster and exerting excessive pressure on the walls"
+  },
+  {
+    "id": 88,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "State of Matter in Everyday Items",
+    "question": "Which of the following is an example of a gas dissolved in a liquid?",
+    "options": {
+      "a": "Vinegar in water",
+      "b": "Carbon dioxide in soda water / soft drinks",
+      "c": "Alcohol in water",
+      "d": "Salt in water"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Carbon dioxide in soda water / soft drinks"
+  },
+  {
+    "id": 89,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Smell of LPG Gas",
+    "question": "Natural cooking gas (LPG) is odorless. What substance is added to it so leaks can be detected instantly by smell?",
+    "options": {
+      "a": "Carbon dioxide",
+      "b": "Ethyl mercaptan (ethanethiol)",
+      "c": "Ammonia",
+      "d": "Chlorine"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Ethyl mercaptan (ethanethiol)"
+  },
+  {
+    "id": 90,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Desert Cooler Effectiveness",
+    "question": "Why does an evaporative desert cooler cool better on a hot, dry day than on a humid monsoon day?",
+    "options": {
+      "a": "Dry air has lower humidity, allowing much faster evaporation of water from the pads",
+      "b": "Cooler fans spin faster in hot weather",
+      "c": "Humid air turns water into ice",
+      "d": "Monsoon days have no sunlight"
+    },
+    "correctKey": "a",
+    "correctAnswer": "Dry air has lower humidity, allowing much faster evaporation of water from the pads"
+  },
+  {
+    "id": 91,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Fourth State of Matter",
+    "question": "What is the fourth state of matter consisting of superheated, ionized gas with free electrons and ions called?",
+    "options": {
+      "a": "Bose-Einstein Condensate",
+      "b": "Plasma",
+      "c": "Superfluid",
+      "d": "Vapor"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Plasma"
+  },
+  {
+    "id": 92,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Plasma in Nature",
+    "question": "Where is the plasma state naturally found in abundance in our universe?",
+    "options": {
+      "a": "Deep underground in gold mines",
+      "b": "In the core of stars and the Sun",
+      "c": "In the ocean trenches",
+      "d": "Inside polar glaciers"
+    },
+    "correctKey": "b",
+    "correctAnswer": "In the core of stars and the Sun"
+  },
+  {
+    "id": 93,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Fifth State of Matter",
+    "question": "What state of matter is formed when a gas of extremely low density is cooled to temperatures close to absolute zero (-273.15 °C)?",
+    "options": {
+      "a": "Plasma",
+      "b": "Supercritical fluid",
+      "c": "Bose-Einstein Condensate (BEC)",
+      "d": "Colloid"
+    },
+    "correctKey": "c",
+    "correctAnswer": "Bose-Einstein Condensate (BEC)"
+  },
+  {
+    "id": 94,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Matter Definition Precision",
+    "question": "Which two fundamental properties must anything have to be classified scientifically as 'Matter'?",
+    "options": {
+      "a": "Color and odor",
+      "b": "Mass and volume (occupies space)",
+      "c": "Hardness and taste",
+      "d": "Heat and light"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Mass and volume (occupies space)"
+  },
+  {
+    "id": 95,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Comparison Table Analysis",
+    "question": "Which of the following properties is characteristic ONLY of solids among the three standard states?",
+    "options": {
+      "a": "Ability to flow (fluidity)",
+      "b": "Definite shape and high incompressibility",
+      "c": "Taking the shape of the container",
+      "d": "Large inter-particle distance"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Definite shape and high incompressibility"
+  },
+  {
+    "id": 96,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Gas Particle Collision",
+    "question": "Collisions of gas molecules with each other and with container walls are considered perfectly elastic, which means:",
+    "options": {
+      "a": "Particles stick together after colliding",
+      "b": "No net loss of total kinetic energy occurs during collisions at constant temperature",
+      "c": "Particles explode upon contact",
+      "d": "Particles immediately turn into liquids"
+    },
+    "correctKey": "b",
+    "correctAnswer": "No net loss of total kinetic energy occurs during collisions at constant temperature"
+  },
+  {
+    "id": 97,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Solid Particle Arrangement",
+    "question": "Solids maintain a definite shape because their constituent particles:",
+    "options": {
+      "a": "Move freely from one end to another",
+      "b": "Are locked into a fixed geometric lattice and only vibrate about their mean positions",
+      "c": "Are completely hollow spheres",
+      "d": "Repel each other strongly"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Are locked into a fixed geometric lattice and only vibrate about their mean positions"
+  },
+  {
+    "id": 98,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Substance Phase at Room Temperature",
+    "question": "Why is water a liquid at room temperature (25 °C) while iron is a solid?",
+    "options": {
+      "a": "Room temperature is below the melting point of iron (1538 °C) but above the melting point of water (0 °C)",
+      "b": "Iron particles have no mass",
+      "c": "Water has stronger cohesive forces than iron",
+      "d": "Iron contains no particles"
+    },
+    "correctKey": "a",
+    "correctAnswer": "Room temperature is below the melting point of iron (1538 °C) but above the melting point of water (0 °C)"
+  },
+  {
+    "id": 99,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Summary of State Interconversions",
+    "question": "Match the transition term: Gas converting directly into liquid is known as:",
+    "options": {
+      "a": "Vaporization",
+      "b": "Condensation (Liquefaction)",
+      "c": "Solidification",
+      "d": "Sublimation"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Condensation (Liquefaction)"
+  },
+  {
+    "id": 100,
+    "source": "Class 8 Science (ICSE / CBSE)",
+    "section": "Comprehensive Mastery",
+    "question": "When ice at 0 °C is converted into steam at 100 °C, which sequence of phase and energy changes takes place?",
+    "options": {
+      "a": "Sublimation directly to steam without heat addition",
+      "b": "Melting (absorbing latent heat of fusion) -> heating liquid water -> boiling (absorbing latent heat of vaporization)",
+      "c": "Condensation -> freezing -> vaporization",
+      "d": "Deposition -> liquefaction -> evaporation"
+    },
+    "correctKey": "b",
+    "correctAnswer": "Melting (absorbing latent heat of fusion) -> heating liquid water -> boiling (absorbing latent heat of vaporization)"
+  }
+]
